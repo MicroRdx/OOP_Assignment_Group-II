@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch filterStudents",
+            "request": "launch",
+            "mainClass": "q3_finalYearStudents.filterStudents",
+            "projectName": "Assignment (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortStudent",
+            "request": "launch",
+            "mainClass": "q3_finalYearStudents.sortStudent",
+            "projectName": "Assignment (2)"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "q3_finalYearStudents.Main",
+            "projectName": "Assignment (2)"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "q1_File.Main",
